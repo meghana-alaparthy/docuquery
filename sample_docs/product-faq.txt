@@ -1,0 +1,19 @@
+Pulseboard FAQ
+
+What is Pulseboard?
+Pulseboard is a lightweight analytics dashboard for small teams. Connect your database or upload a CSV and get shareable charts in minutes, without writing SQL.
+
+How much does it cost?
+There is a free Starter plan (3 dashboards, 1,000 rows per dataset). The Team plan is $19 per user per month with unlimited dashboards and 10M rows per dataset. Annual billing saves 20%.
+
+Can I share dashboards outside my team?
+Yes. Every dashboard has a public link option with optional password protection. Viewers do not need a Pulseboard account.
+
+Which databases are supported?
+Postgres, MySQL, BigQuery, Snowflake, and SQLite. CSV and Parquet uploads work on every plan.
+
+Is my data secure?
+Data is encrypted in transit and at rest (AES-256). Pulseboard is SOC 2 Type II certified. We never train models on customer data.
+
+How do I cancel?
+Cancel anytime from Settings > Billing. You keep access until the end of your billing period and can export all dashboards as PDF.
